@@ -1,61 +1,76 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "610076c89a6e55343df37808fcf59806330eb37b4108c5b080807c95cd0c7162"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "075385ee356a2b257ad6b7beeb88b5516fc53f80576d09b90e97ad1b78be933d"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "ae5bb725f6a66376d9f60c29391f929a4cd1cc3931120a5a4c9491a4afe043c6"
+hash = "716b04d54f2f04f05a0b4050c267c2128dc9a5bc4999cf88d1b17432fd123859"
 metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
+hash = "d311f5dc47b1e53a1a1ab65ad1c43f6e11dc65ecb2f758965518d4031bc5d57e"
 metafile = true
 
 [[files]]
 file = "mods/chunkyborder.pw.toml"
-hash = "a6096b3cc740027d6e192e8def745117f95ef73041187135522aebf8da0ea11d"
+hash = "c5c7145494a09b9de33fec1f3348d91ff2e5b9bd0a66c5f34cae36b740e6a007"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f7c2814e0854842eb1872dff98052714a8235d2beb1f67e04b9ffd62009ff5b1"
+hash = "ac0e518964a2c2a0d2d39725b765af743232f64437499b0de190acea896ac7ae"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+hash = "aaad4f1b2f56017174e616998d03895c79b457868dfcc7d308bb1137ca24f1c0"
 metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
+hash = "2be061ff483130ea96de7d4079e8b0530f754a425eb2bb19a7afa037df71c92f"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b3b33c53f8356928f86223f26eaebd7a266d610f8628e5077cda196192b0b7e4"
-metafile = true
-
-[[files]]
-file = "mods/lmd.pw.toml"
-hash = "5c873d4e0199fc7aef86be457c5c97eee381023f575e422c9182589e1573bdab"
+hash = "c277fcc0ad4e4914dff3b5d8bf83845fd8ba2140b9c2a45cb9e65f63e1c4045f"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
+hash = "6c10583f8b19da6e4ee53458062ecf29adf5cc11bd0ffdad8675001a8bdb3d5d"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "40ff528c1c0cb17ed25b91771185dd84afb3ddc0544878000e395613525cb23a"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
+hash = "6697ba6b106e3e192456f56a7af5c7cf75c4b37ba25e659a3ad9e706420c0bf8"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "4589a97011fcd472b68c4586bec5f40e464f4ed775cfc78e45fc6052adf9a4c7"
 metafile = true
 
 [[files]]
 file = "mods/slumber.pw.toml"
-hash = "52c508a86c75aeb8c15fafed584cf7098039be0ef7536b94a439c3d1b4217c2c"
+hash = "5cad6dfb41bcc7bd21e1bd662bfdda2ce387d445efa08414ac1db44974ec6559"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "24ca44f204ce1904fa79e0fab79c101831716b3197a726f71abf6e5d3e621f80"
+hash = "03865d14176416d13d1c9f55f42154fc2d7176fb56f4c641a6f78c158366820c"
 metafile = true
