@@ -1,0 +1,13 @@
+name = "Server Pack"
+author = "Jurn Wubben"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "06e139e418713e307df57d1ff1c9a0f31285de54385dc82e4267c0de670b2fff"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.21.1"
