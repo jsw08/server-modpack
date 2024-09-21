@@ -9,12 +9,56 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
+file = "config/antixray.toml"
+hash = "c60dd6a46e310909e669ce8d91e05d447a503ea4cc02c47dc3d022297635d41e"
+
+[[files]]
+file = "config/balm-common.out.toml"
+hash = "2fbbc2792edc05ca4df6648bf4f2637502e9bc1942baa957abaace7882e70fef"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "a200148a1d65802310b4a477e2bb76ae4202e16da96edcf62c82ff303911caac"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "272ea9d12fa563a8f86d37fb97f414ffe66d095e90926f8d19b7710ecd4b8d30"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
 file = "config/chunkyborder/borders.json"
 hash = "c8750b90d6b3736865985fe83f338f6239df97acfa3a13418163cfcc62e61061"
 
 [[files]]
 file = "config/chunkyborder/config.json"
 hash = "e5fc098dcbb4931738d4a90a0f94fd21fd5828fde1515565903a6135dedf3578"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "a66027bda0ce17432416d867daa1eb59fee1e8596a3d7a348b242de0f6adc359"
+
+[[files]]
+file = "config/slumber.properties"
+hash = "b7dac037318b6a87c6331f1bc9f883b9f781bd2800cb28212322ec2ce39dedd0"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/spark/tmp-client/about.txt"
+hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 
 [[files]]
 file = "config/voicechat/translations.properties"
