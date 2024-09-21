@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "3e95a826abf53918bdbb90f93872ec3ccd7d6c557af591f9572510d753b4f25b"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/chunkyborder/borders.json"
+hash = "c8750b90d6b3736865985fe83f338f6239df97acfa3a13418163cfcc62e61061"
+
+[[files]]
+file = "config/chunkyborder/config.json"
+hash = "e5fc098dcbb4931738d4a90a0f94fd21fd5828fde1515565903a6135dedf3578"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "7d61e77fd014f6616dcac73bec520138e107bdee62be760d4db46dfbc4d2f095"
+
+[[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "610076c89a6e55343df37808fcf59806330eb37b4108c5b080807c95cd0c7162"
 metafile = true
